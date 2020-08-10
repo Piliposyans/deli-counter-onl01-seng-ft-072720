@@ -12,4 +12,3 @@ def line(x)
   end
 end 
 
-def take_a_number
